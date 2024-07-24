@@ -1,13 +1,21 @@
-# Hello 👋, I'm ANAS
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm ANAS 
 
-## I'm an aspiring Full Stack Developer!!
+#### I'm an aspiring Full Stack Developer!
 
-<br>
-<h3> 💻 &nbsp;About Me </h3>
+<div>
+  
+  <br>
 
--    👨‍💻 I’m currently Working as an intern
--    🌱 I’m currently learning React and applying it in my projects.
--    🔮 My goal is to master the rest of MERN Stack!!
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-p-8463292a8/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anasp_xr?igsh=NjN0NXRkejc5cXBm)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaspappadan@gmail.com)
+
+</div>
+<h3> 🙂 About Me </h3>
+
+-    👨‍💻 Currently Working as an intern
+-    📖 Completed learning frontend and now focused on backend development.
+-    🎯 My goal is to master the MERN Stack!!
 
 <br>
 
@@ -33,21 +41,12 @@
 
 <br>
 
-### My Leetcode stats
+### 📊 My Leetcode stats
 In my freetime i try to solve some leetcode problems..!!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anaspxr)
 
-  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<div align="center">
-  
-  <br>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-p-8463292a8/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anasp_xr?igsh=NjN0NXRkejc5cXBm)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaspappadan@gmail.com)
 
-<br>
-</div>
 <br>
   
