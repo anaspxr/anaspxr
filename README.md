@@ -27,11 +27,16 @@
   <br>
   <h3> 📚 &nbsp;My Projects </h3>
 
-- 🕹️ **Wack-a-Mole Game**: A simple game built using vanilla JavaScript.
-- 🏘️ **Real Estate Website**: A real estate website built with the MERN stack for my college final year project.
-- 🛋️ **Furniture E-commerce**: An e-commerce site for furniture, built with React.
+- 🕹️ [**Wack-a-Mole Game**](https://github.com/anaspxr/Whack-A-Mole): A simple game built using vanilla JavaScript.
+- 🏘️ [**Real Estate Website**](https://github.com/iambasilp/team-estate): A real estate website built with the MERN stack for my college final year project.
+- 🛋️ [**Furniture E-commerce**:](https://github.com/anaspxr/e-commerce-furniture-shop) An e-commerce site for furniture, built with React.
 
 <br>
+
+### My Leetcode stats
+In my freetime i try to solve some leetcode problems..!!
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/anaspxr)
 
   <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <div align="center">
