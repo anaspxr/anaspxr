@@ -14,7 +14,7 @@
 <h3> 🙂 About Me </h3>
 
 -    👨‍💻 Currently Working as an intern
--    📖 Completed learning frontend and now focused on backend development.
+-    📖 Currently working on a fullstack e-commerce project.
 -    🎯 My goal is to master the MERN Stack!!
 
 <br>
