@@ -37,7 +37,7 @@
 
 - 🕹️ [**Wack-a-Mole Game**](https://github.com/anaspxr/Whack-A-Mole): A simple game built using vanilla JavaScript.
 - 🏘️ [**Real Estate Website**](https://github.com/iambasilp/team-estate): A real estate website built with the MERN stack for my college final year project.
-- 🛋️ [**Furniture E-commerce**:](https://github.com/anaspxr/e-commerce-furniture-shop) An e-commerce site for furniture, built with React.
+- 🛋️ [**Furniture E-commerce**:](https://github.com/anaspxr/e-commerce-with-redux) An e-commerce site for furniture, built with React.
 
 <br>
 
