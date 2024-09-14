@@ -14,8 +14,8 @@
 <h3> 🙂 About Me </h3>
 
 -    👨‍💻 Currently Working as an intern
--    📖 Currently working on a fullstack e-commerce project.
--    🎯 My goal is to master the MERN Stack!!
+-    📖 Currently mastering TypeScript!
+-    🎯 My goal is to master the MERN Stack!
 
 <br>
 
