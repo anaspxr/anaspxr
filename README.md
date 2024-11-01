@@ -16,7 +16,7 @@
  
  - The possibilities of Next.Js 15 and React 19
  - Learning more about TypeScript and how it enhances code maintainability
- - Exploring best practices in SEO optimization, SSR, and user experience with Next.js 14
+ - Exploring best practices in SEO, SSR, and user experience with Next.js 14
 
 <h4> 🛠 &nbsp;Tech Stack</h3>
 
