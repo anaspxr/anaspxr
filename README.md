@@ -10,13 +10,12 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anasp_xr?igsh=NjN0NXRkejc5cXBm)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaspappadan@gmail.com)
 
+#### Personal portofolio: www.anasp.me
+
 </div>
 <h3> 🙂 About Me </h3>
-	💡 Currently Exploring
- 
- - The possibilities of Next.Js 15 and React 19
- - Learning more about TypeScript and how it enhances code maintainability
- - Exploring best practices in SEO, SSR, and user experience with Next.js 14
+
+I am a web developer with a passion for creating beautiful & user-friendly websites and backend services. I have experience in building websites using modern technologies like React, Next.js, Node.js, and Express. I am always eager to learn new technologies and improve my skills.
 
 <h4> 🛠 &nbsp;Tech Stack</h3>
 
@@ -36,18 +35,13 @@
   <br>
   <h4> 📚 &nbsp;My Projects </h3>
 
-- 📅 [**DOQUE**:](https://github.com/anaspxr/project-doque) A comprehensive Task management application built in NextJs and TypeScript
+- 📅 [**DOQUE**:](https://github.com/anaspxr/project-doque) A comprehensive Task management application built in Next.Js.
+- 🟧 [**Reddit clone**:](https://github.com/anaspxr/reddit-clone-client) Feature-rich clone of the Reddit App built using the Next.js.
 - 🏘️ [**Real Estate Website**](https://github.com/iambasilp/team-estate): A real estate website built with the MERN stack for my college final year project.
 - 🛋️ [**Furniture E-commerce**:](https://github.com/anaspxr/e-commerce-with-redux) An e-commerce site for furniture, built with React.
 - 🕹️ [**Wack-a-Mole Game**](https://github.com/anaspxr/Whack-A-Mole): A simple classic game built using vanilla JavaScript.
 
 <br>
 
-### 📊 Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/anaspxr)
-
-
-
-<br>
   
