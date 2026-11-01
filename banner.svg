@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="anasp.in in five themes: Frosted, Manga, Schematic, Late Shift and ASCII">
+  <style>
+    .sans { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Consolas, "Liberation Mono", monospace; }
+    .heavy { font-family: "Arial Black", Impact, "Hiragino Kaku Gothic StdN", "Yu Gothic", sans-serif; font-weight: 900; }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    .twinkle { animation: twinkle 2.4s steps(2) infinite; }
+    .twinkle.b { animation-delay: -0.8s; }
+    .twinkle.c { animation-delay: -1.6s; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes twinkle { 50% { opacity: 0.25; } }
+    @media (prefers-reduced-motion: reduce) { .blink, .twinkle { animation: none; } }
+  </style>
+  <defs>
+    <!-- one slanted slice per theme; the cut leans 24px each way -->
+    <clipPath id="s0"><polygon points="-30,0 264,0 216,300 -30,300"/></clipPath>
+    <clipPath id="s1"><polygon points="264,0 504,0 456,300 216,300"/></clipPath>
+    <clipPath id="s2"><polygon points="504,0 744,0 696,300 456,300"/></clipPath>
+    <clipPath id="s3"><polygon points="744,0 984,0 936,300 696,300"/></clipPath>
+    <clipPath id="s4"><polygon points="984,0 1230,0 1230,300 936,300"/></clipPath>
+
+    <radialGradient id="frostGlow" cx="0.8" cy="0" r="0.9">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="0.35" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#b9a8ff"/>
+      <stop offset="1" stop-color="#4b3a9e"/>
+    </radialGradient>
+    <linearGradient id="glassEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.08"/>
+    </linearGradient>
+
+    <pattern id="tone" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="3.5" cy="3.5" r="1.1" fill="#141414" fill-opacity="0.16"/>
+    </pattern>
+
+    <pattern id="gridFine" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#7fe3ff" stroke-opacity="0.07"/>
+    </pattern>
+    <pattern id="gridBold" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M120 0H0V120" fill="none" stroke="#7fe3ff" stroke-opacity="0.16"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10Z" fill="#7fe3ff"/>
+    </marker>
+
+    <radialGradient id="lamp" cx="0.9" cy="0" r="0.8">
+      <stop offset="0" stop-color="#ffa850" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffa850" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1" fill="#fff" fill-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <!-- Frosted -->
+  <g clip-path="url(#s0)">
+    <rect x="-30" width="300" height="300" fill="#07060d"/>
+    <rect x="-30" width="300" height="300" fill="url(#frostGlow)"/>
+    <circle cx="150" cy="105" r="34" fill="url(#orb)"/>
+    <rect x="50" y="100" width="150" height="96" rx="26" fill="#fff" fill-opacity="0.07" stroke="url(#glassEdge)" stroke-width="1.5"/>
+    <rect x="72" y="126" width="64" height="8" rx="4" fill="#f4f2ff" fill-opacity="0.8"/>
+    <rect x="72" y="144" width="96" height="6" rx="3" fill="#a7a3bd" fill-opacity="0.6"/>
+    <rect x="72" y="160" width="80" height="6" rx="3" fill="#a7a3bd" fill-opacity="0.6"/>
+    <text x="104" y="268" text-anchor="middle" class="sans" font-size="26" font-weight="600" letter-spacing="-1" fill="#f4f2ff">Frosted</text>
+  </g>
+
+  <!-- Manga -->
+  <g clip-path="url(#s1)">
+    <rect x="200" width="320" height="300" fill="#f4efe4"/>
+    <rect x="200" width="320" height="300" fill="url(#tone)"/>
+    <g stroke="#141414" stroke-width="1.6" stroke-linecap="round">
+      <path d="M362 132L230 20M362 132L300 0M362 132L380 0M362 132L470 10M362 132L520 90M362 132L520 180M362 132L470 270M362 132L250 250M362 132L210 150M362 132L215 70"/>
+    </g>
+    <circle cx="362" cy="132" r="56" fill="#f4efe4"/>
+    <polygon points="362,82 374,112 406,106 386,130 408,154 376,150 362,182 348,150 316,154 338,130 318,106 350,112" fill="#c21f25" stroke="#141414" stroke-width="3" stroke-linejoin="round"/>
+    <text x="344" y="276" text-anchor="middle" class="heavy" font-size="40" fill="#141414">漫画</text>
+  </g>
+
+  <!-- Schematic -->
+  <g clip-path="url(#s2)">
+    <rect x="440" width="320" height="300" fill="#0b2a4a"/>
+    <rect x="440" width="320" height="300" fill="url(#gridFine)"/>
+    <rect x="440" width="320" height="300" fill="url(#gridBold)"/>
+    <g fill="none" stroke="#7fe3ff" stroke-width="1.5">
+      <circle cx="600" cy="130" r="48"/>
+      <circle cx="600" cy="130" r="22" stroke-dasharray="4 4"/>
+      <path d="M540 130H660M600 70V190" stroke-opacity="0.5"/>
+      <path d="M552 206H648" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <path d="M552 186V214M648 186V214" stroke-opacity="0.5"/>
+    </g>
+    <text x="600" y="228" text-anchor="middle" class="mono" font-size="11" fill="#8fb4d6">Ø 96</text>
+    <text x="584" y="268" text-anchor="middle" class="mono" font-size="22" font-weight="500" fill="#e6f3ff">Schematic</text>
+  </g>
+
+  <!-- Late Shift: everything on a 6px pixel grid -->
+  <g clip-path="url(#s3)" shape-rendering="crispEdges">
+    <rect x="680" width="320" height="300" fill="#17142b"/>
+    <rect x="680" width="320" height="300" fill="url(#lamp)"/>
+    <g fill="#f4eadc">
+      <rect class="twinkle" x="756" y="36" width="4" height="4"/>
+      <rect class="twinkle b" x="900" y="54" width="4" height="4"/>
+      <rect class="twinkle c" x="800" y="210" width="4" height="4"/>
+      <rect class="twinkle" x="930" y="186" width="4" height="4"/>
+      <rect class="twinkle c" x="736" y="120" width="4" height="4"/>
+    </g>
+    <!-- crescent moon -->
+    <g fill="#ffb454">
+      <rect x="828" y="84" width="24" height="6"/>
+      <rect x="816" y="90" width="18" height="6"/>
+      <rect x="810" y="96" width="12" height="6"/>
+      <rect x="804" y="102" width="12" height="36"/>
+      <rect x="810" y="138" width="12" height="6"/>
+      <rect x="816" y="144" width="18" height="6"/>
+      <rect x="828" y="150" width="24" height="6"/>
+    </g>
+    <!-- window frame -->
+    <g fill="#5b4f9a">
+      <rect x="774" y="66" width="120" height="6"/>
+      <rect x="774" y="168" width="120" height="6"/>
+      <rect x="774" y="66" width="6" height="108"/>
+      <rect x="888" y="66" width="6" height="108"/>
+      <rect x="762" y="174" width="144" height="6"/>
+    </g>
+    <text x="824" y="268" text-anchor="middle" class="mono" font-size="22" font-weight="700" letter-spacing="1" fill="#ffb454">LATE SHIFT</text>
+  </g>
+
+  <!-- ASCII -->
+  <g clip-path="url(#s4)">
+    <rect x="920" width="320" height="300" fill="#0b0b0b"/>
+    <rect x="920" width="320" height="300" fill="url(#scan)"/>
+    <g class="mono" font-size="16">
+      <text x="990" y="84" fill="#3ef07a">$ <tspan fill="#e2e2e2">whoami</tspan></text>
+      <text x="990" y="108" fill="#8f8f8f">anas</text>
+      <text x="990" y="140" fill="#3ef07a">$ <tspan fill="#e2e2e2">cat now</tspan></text>
+      <text x="990" y="164" fill="#8f8f8f">building things</text>
+      <text x="990" y="196" fill="#3ef07a">$</text>
+    </g>
+    <rect class="blink" x="1006" y="182" width="10" height="18" fill="#3ef07a"/>
+    <text x="1064" y="268" text-anchor="middle" class="mono" font-size="22" font-weight="700" fill="#e2e2e2">ASCII</text>
+  </g>
+
+  <!-- cuts between slices -->
+  <g stroke="#000" stroke-width="3">
+    <path d="M264 0L216 300M504 0L456 300M744 0L696 300M984 0L936 300"/>
+  </g>
+</svg>
